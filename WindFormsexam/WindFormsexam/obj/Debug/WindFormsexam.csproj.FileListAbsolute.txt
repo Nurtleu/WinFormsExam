@@ -1,0 +1,12 @@
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\bin\Debug\WindFormsexam.exe.config
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\bin\Debug\WindFormsexam.exe
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\bin\Debug\WindFormsexam.pdb
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.csprojResolveAssemblyReference.cache
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.AutorizhtionWindow.resources
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.Properties.Resources.resources
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.csproj.GenerateResource.Cache
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.csproj.CoreCompileInputs.cache
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.exe
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.pdb
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.MainMenu.resources
+C:\Users\ОмиржанН.CORP\Desktop\WindFormsexam\WindFormsexam\obj\Debug\WindFormsexam.Registration.resources
